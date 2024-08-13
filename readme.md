@@ -29,7 +29,7 @@
 
 ## 不工作&小毛病
 
-1. 暂无
+1. 暂无(对于Z370 Taichi而言)
 
 2. 如果您的主板是Fatal1ty Z370 Professional Gaming i7的话需要额外补充Marvell Aquantia AQC107网卡的kext才能让内置的万兆网卡工作
 

@@ -35,5 +35,6 @@
 
 ## Q&A
 
-Q1:为啥这个EFI理论上同时兼容Z370 Taichi和Fatal1ty Z370 Professional Gaming i7？
+Q1:为啥这个EFI同时兼容Z370 Taichi和Fatal1ty Z370 Professional Gaming i7？ 
+
 A1:因为这两块主板为套娃关系，后者比前者主要是多了AQC107的万兆网卡。

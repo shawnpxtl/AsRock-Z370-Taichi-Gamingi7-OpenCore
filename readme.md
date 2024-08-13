@@ -1,4 +1,4 @@
-# Asrock Z370 Taichi with QTJ1-Hackintosh-Sonoma-OpenCore
+# Asrock Z370 Taichi & Fatal1ty Z370 Professional Gaming i7 with QTJ1-Hackintosh-Sonoma-OpenCore
 
 本套EFI可以保证启动并且适应macOS Sonoma系统，并且除了不工作的硬件之外没有太大毛病
 
